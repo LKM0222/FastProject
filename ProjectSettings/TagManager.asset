@@ -50,3 +50,15 @@ TagManager:
   - name: Layer 3
     uniqueID: 4189426099
     locked: 0
+  - name: Ground
+    uniqueID: 3849548671
+    locked: 0
+  - name: Struct
+    uniqueID: 4081823775
+    locked: 0
+  - name: Player
+    uniqueID: 3185461497
+    locked: 0
+  - name: UI
+    uniqueID: 1784169115
+    locked: 0
